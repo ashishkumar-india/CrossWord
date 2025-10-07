@@ -1,0 +1,331 @@
+/* ============= MOBILE RESPONSIVE (merged) ============= */
+
+/* Breakpoint: up to 968px */
+@media (max-width: 968px) {
+    /* Creator container stacks vertically */
+    .creator-container {
+        grid-template-columns: 1fr !important;
+        gap: 20px;
+    }
+
+    /* Preview & word-entry sections ordering/padding */
+    .preview-section {
+        position: relative !important;
+        top: 0 !important;
+        max-height: none !important;
+        order: 2;
+        padding: 20px;
+    }
+
+    .word-entry-section {
+        order: 1;
+        padding: 20px;
+    }
+
+    /* Word items stack vertically */
+    .word-item {
+        grid-template-columns: 1fr !important;
+        gap: 8px;
+        padding: 12px;
+    }
+
+    .word-item input {
+        font-size: 13px;
+        padding: 8px;
+    }
+
+    .remove-word-btn {
+        top: 5px;
+        right: 5px;
+        padding: 4px 8px;
+    }
+
+    /* Form grid becomes single column */
+    div[style*="grid-template-columns: 2fr 1fr"] {
+        grid-template-columns: 1fr !important;
+        gap: 15px !important;
+    }
+
+    /* Buttons */
+    .add-word-btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+    /* Grid preview smaller */
+    .grid-cell {
+        width: 25px !important;
+        height: 25px !important;
+    }
+
+    .grid-cell span {
+        font-size: 12px !important;
+    }
+
+    .cell-number {
+        font-size: 8px !important;
+    }
+
+    /* Stats bar */
+    .stats-bar {
+        padding: 12px;
+        gap: 10px;
+    }
+
+    .stat-item .value {
+        font-size: 20px;
+    }
+
+    .stat-item .label {
+        font-size: 11px;
+    }
+
+    /* Info banner */
+    .info-banner {
+        padding: 15px;
+    }
+
+    .info-banner h3 {
+        font-size: 18px;
+    }
+
+    .info-banner p {
+        font-size: 12px;
+    }
+
+    /* Clue preview */
+    .clue-preview-box {
+        padding: 12px;
+    }
+
+    .clue-preview-item {
+        font-size: 12px;
+        padding: 6px;
+    }
+
+    /* Container padding */
+    .container {
+        padding: 15px 10px !important;
+    }
+
+    .preview-section h3 {
+        font-size: 18px;
+    }
+}
+
+/* Breakpoint: up to 768px */
+@media (max-width: 768px) {
+    /* Hamburger Menu */
+    .hamburger {
+        display: flex;
+    }
+
+    /* Navbar Mobile */
+    .navbar h1 {
+        font-size: 20px;
+    }
+
+    .navbar nav {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        background: white;
+        gap: 0;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.4s ease;
+        box-shadow: none;
+    }
+
+    .navbar nav.active {
+        max-height: 500px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    .navbar nav a {
+        padding: 18px 20px;
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid #e5e7eb;
+    }
+
+    .navbar nav a:last-child {
+        border-bottom: none;
+    }
+
+    /* Container */
+    .container {
+        padding: 15px;
+    }
+
+    /* Dashboard */
+    .dashboard {
+        padding: 20px 0;
+    }
+
+    .welcome-section {
+        padding: 20px;
+    }
+
+    .welcome-section h2 {
+        font-size: 22px;
+    }
+
+    /* Stats Grid */
+    .stats-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    .stat-card {
+        padding: 25px;
+    }
+
+    .stat-card h3 {
+        font-size: 36px;
+    }
+
+    /* Content Box */
+    .content-box {
+        padding: 20px;
+    }
+
+    .content-box h3 {
+        font-size: 20px;
+    }
+
+    /* Auth Box */
+    .auth-box {
+        padding: 30px 20px;
+    }
+
+    .auth-box h2 {
+        font-size: 24px;
+    }
+
+    /* Tables */
+    table {
+        font-size: 13px;
+    }
+
+    table th,
+    table td {
+        padding: 10px 8px;
+    }
+
+    /* Buttons */
+    .btn {
+        padding: 8px 12px;
+        font-size: 12px;
+        min-width: 80px;
+    }
+
+    /* Crossword */
+    .crossword-container {
+        flex-direction: column;
+    }
+
+    /* Slightly larger grid cells at this breakpoint to maintain tap-size */
+    .grid-cell {
+        width: 30px;
+        height: 30px;
+    }
+
+    .grid-cell input {
+        font-size: 16px;
+    }
+
+    .creator-controls {
+        flex-direction: column;
+    }
+
+    .creator-controls button {
+        width: 100%;
+    }
+}
+
+/* Breakpoint: up to 480px */
+@media (max-width: 480px) {
+    /* Extra small screens (merged) */
+    .word-entry-section,
+    .preview-section {
+        padding: 15px;
+    }
+
+    /* Use smaller grid cells on very small screens */
+    .grid-cell {
+        width: 20px !important;
+        height: 20px !important;
+    }
+
+    .grid-cell span {
+        font-size: 10px !important;
+    }
+
+    .grid-cell input {
+        font-size: 14px;
+    }
+
+    .cell-number {
+        font-size: 7px !important;
+    }
+
+    .stat-item .value {
+        font-size: 18px;
+    }
+
+    .stat-item .label {
+        font-size: 10px;
+    }
+
+    .clue-preview-item {
+        font-size: 11px;
+    }
+
+    .info-banner h3 {
+        font-size: 16px;
+    }
+
+    .info-banner p {
+        font-size: 11px;
+    }
+
+    button[name="create_puzzle"] {
+        padding: 12px 30px !important;
+        font-size: 16px !important;
+    }
+
+    /* Navbar & dashboard tweaks for extra small screens */
+    .navbar h1 {
+        font-size: 18px;
+    }
+
+    .welcome-section h2 {
+        font-size: 20px;
+    }
+
+    .stat-card h3 {
+        font-size: 32px;
+    }
+
+    .stat-card p {
+        font-size: 14px;
+    }
+
+    table {
+        font-size: 12px;
+    }
+
+    table th,
+    table td {
+        padding: 8px 6px;
+    }
+
+    .btn {
+        padding: 6px 10px;
+        font-size: 11px;
+        min-width: 70px;
+    }
+}

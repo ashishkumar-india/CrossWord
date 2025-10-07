@@ -1,0 +1,39 @@
+[2025-10-04 09:54:09] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 09:55:02] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 10:00:03] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 10:06:46] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 10:12:36] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 10:23:49] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 11:29:56] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 11:31:58] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 11:52:02] [LOGIN_SUCCESS] IP: ::1 | User: 2 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 11:56:25] [LOGIN_SUCCESS] IP: ::1 | User: 3 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 11:57:27] [LOGIN_SUCCESS] IP: ::1 | User: 3 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 12:04:56] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 12:13:21] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 12:17:31] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 12:25:42] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 12:26:05] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 17:27:36] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 17:31:04] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 18:28:55] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+[2025-10-04 18:38:37] [LOGIN_SUCCESS] IP: ::1 | User: 4 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+[2025-10-04 18:44:24] [LOGIN_SUCCESS] IP: ::1 | User: 5 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 19:05:57] [CSRF_FAIL] IP: 127.0.0.1 | User: Guest | Session mismatch | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+[2025-10-04 19:46:19] [LOGIN_SUCCESS] IP: ::1 | User: 5 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-04 21:47:00] [LOGIN_SUCCESS] IP: ::1 | User: 5 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-05 18:20:57] [LOGIN_SUCCESS] IP: ::1 | User: 5 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-05 18:26:05] [CSRF] IP: 192.168.137.88 | User: Guest | Missing CSRF token on student login | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:26:12] [CSRF] IP: 192.168.137.88 | User: Guest | Missing CSRF token on student login | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:26:16] [CSRF] IP: 192.168.137.88 | User: Guest | Missing CSRF token on student login | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:26:24] [CSRF] IP: 192.168.137.88 | User: Guest | Missing CSRF token on student login | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:36:45] [CSRF] IP: 192.168.137.88 | User: Guest | Missing CSRF token on student login | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:42:49] [CSRF] IP: 192.168.137.88 | User: Guest | Missing CSRF token on student login | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:42:52] [CSRF] IP: 192.168.137.88 | User: Guest | Invalid CSRF token on student login | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:43:00] [LOGIN_SUCCESS] IP: 192.168.137.88 | User: 5 | User type: student | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:48:29] [LOGIN_SUCCESS] IP: 192.168.137.88 | User: 5 | User type: student | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 18:55:40] [LOGIN_SUCCESS] IP: 192.168.137.88 | User: 5 | User type: student | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 19:06:47] [LOGIN_SUCCESS] IP: 192.168.137.88 | User: 5 | User type: student | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 19:12:14] [LOGIN_SUCCESS] IP: 192.168.137.88 | User: 5 | User type: student | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+[2025-10-05 19:15:48] [ACCESS] IP: ::1 | User: 5 | Disabled account login attempt: raj | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+[2025-10-05 19:16:50] [LOGIN_SUCCESS] IP: ::1 | User: 5 | User type: student | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
